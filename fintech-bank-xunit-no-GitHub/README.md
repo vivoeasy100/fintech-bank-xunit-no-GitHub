@@ -10,12 +10,12 @@ Para atender à execução da atividade com **4 integrantes** e garantir contrib
 
 | Integrante | GitHub | Função Principal | Responsabilidades |
 | :--- | :--- | :--- | :--- |
-| **Gabriel Ferreira de Souza** | [@1Gapril](https://github.com/1Gapril) | **Dev Backend Core (Serviço 1) & Owner** | Criação do repositório remoto, configuração inicial da solução .NET e implementação do `ContaCorrenteService.cs` (cálculo de taxas de manutenção e validação de saque). |
-| **Caio Vasconcelos** | [@caiovas28-dotcom](https://github.com/caiovas28-dotcom) | **Dev Backend Core (Serviço 2)** | Implementação do `EmprestimoService.cs` (cálculo de juros por score de crédito e validação de margem consignável). |
-| **Lucas H. Miranda** | [@LucasHMiranda](https://github.com) | **QA Engineer & Testes xUnit** | Implementação das suítes de testes parametrizados com xUnit (`ContaCorrenteServiceTests.cs` e `EmprestimoServiceTests.cs` usando `[Theory]` e `[InlineData]`). |
-| **Fernando Almeida de Oliveira Braga** | Contribuidor Local / Git | **DevOps, CI/CD & Documentação** | Configuração do `.gitignore`, `LICENSE` (MIT), documentação técnica no `README.md`, revisão de código e validação de execução (`dotnet test`). |
+| **Gabriel Ferreira de Souza 325140970** | [@1Gapril](https://github.com/1Gapril) | **Dev Backend Core (Serviço 1) & Owner** | Criação do repositório remoto, configuração inicial da solução .NET e implementação do `ContaCorrenteService.cs` (cálculo de taxas de manutenção e validação de saque). |
+| **Caio Vasconcelos 325132875** | [@caiovas28-dotcom](https://github.com/caiovas28-dotcom) | **Dev Backend Core (Serviço 2)** | Implementação do `EmprestimoService.cs` (cálculo de juros por score de crédito e validação de margem consignável). |
+| **Lucas H. Miranda 325131396** | [@LucasHMiranda](https://github.com) | **QA Engineer & Testes xUnit** | Implementação das suítes de testes parametrizados com xUnit (`ContaCorrenteServiceTests.cs` e `EmprestimoServiceTests.cs` usando `[Theory]` e `[InlineData]`). |
+| **Fernando Almeida de Oliveira Braga 326132695** | Contribuidor Local / Git | **DevOps, CI/CD & Documentação** | Configuração do `.gitignore`, `LICENSE` (MIT), documentação técnica no `README.md`, revisão de código e validação de execução (`dotnet test`). |
 
-> 📌 **Guia Passo a Passo por Integrante:** Consulte o arquivo [PASSO_A_PASSO_INTEGRANTES.md](PASSO_A_PASSO_INTEGRANTES.md) para ver as instruções detalhadas e comandos Git individuais para cada membro.
+> 📌 **Guia Passo a Passo por Integrante:** Consulte o arquivo PASSO_A_PASSO_INTEGRANTES.md](PASSO_A_PASSO_INTEGRANTES.md) para ver as instruções detalhadas e comandos Git individuais para cada membro.
 
 ---
 
