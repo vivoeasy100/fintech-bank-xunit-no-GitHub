@@ -1,5 +1,6 @@
 namespace FintechBank.App;
 
+// Serviço responsável pelo cálculo das parcelas e aprovação de empréstimos.
 public class EmprestimoService
 {
     /// <summary>
