@@ -1,0 +1,23 @@
+# Diretórios de compilação
+**/bin/
+**/obj/
+
+# Arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Configurações locais
+.env
+.env.*
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
